@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+Genertes GitHub style Identicons via a string.
 
 ## Installation
 
