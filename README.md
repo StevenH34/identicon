@@ -1,6 +1,6 @@
 # Identicon
 
-Genertes GitHub style Identicons via a string.
+Generates GitHub style Identicons via a string.
 
 ## Installation
 
